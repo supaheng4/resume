@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Libre+Baskerville&display=swap');
+img {
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+header{
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2067&q=80')
+}
+.header-info{
+  width: 650px;
+  height: 550px;
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+  font-family: 'Libre Baskerville', serif;
+  
+}
+footer{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  height:70px;
+  justify-content: center;
+}
+body{
+  color:#fff;
+  font-family: 'Libre Baskerville', serif;
+}
+.info{
+   font-family: 'Libre Baskerville', serif;
+}
+p{
+  font-family: 'Lato', sans-serif;
+  color: #000;
+}
+h3{
+  color:#333;
+}
+h6{
+  color:#333;
+}
+.navbar-toggler{
+  background-color: #EFE6D9;
+}
+
+
+  
+
+  
